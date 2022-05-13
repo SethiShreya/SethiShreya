@@ -7,10 +7,10 @@
 </p>
 
 
-- 🔭 I’m currently working at [VMware](https://tanzu.vmware.com/) as a Senior MTS
-- 👯 Contributes to [Cluster API](https://github.com/kubernetes-sigs/cluster-api) and [CAPV provider](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
+- 🔭 I’m currently pursuing my Bachelors of Science major in Computer Science at University of Delhi.
+- 👯 Learning Immersive Technology, practicing my programming skills with competitive programming and I am an Open Source Enthusiast
 - 😄 Pronouns: she/her
-- 💞️ You can reach me out on Slack with handle `@Geetika Batra` 
+- 💞️ You can reach me out on [Linkdin](https://www.linkedin.com/in/shreya-sethi-3a6164228/) 
 
 
 <!--   GitHub stats graph -->
@@ -26,7 +26,7 @@
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/GeetikaBatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/twitter.svg" alt="shivi28" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/batrageetika/" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/linkedin.svg" alt="shivi28" height="30" width="30" /></a>
-<a href="mailto:geetika791@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://twitter.com/shreyasethi47" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/twitter.svg" alt="shivi28" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shreya-sethi-3a6164228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/linkedin.svg" alt="shivi28" height="30" width="30" /></a>
+<a href="mailto:shreyasethi47@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/shivi28/shivi28/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
