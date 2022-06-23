@@ -10,7 +10,7 @@
 - 🔭 I’m currently pursuing my Bachelors of Science major in Computer Science at University of Delhi.
 - 👯 Learning Immersive Technology, practicing my programming skills with competitive programming and I am an Open Source Enthusiast
 - 😄 Pronouns: she/her
-- 💞️ You can reach me out on [Linkdin](https://www.linkedin.com/in/shreya-sethi-3a6164228/) 
+- 💞️ You can reach me out on [Linkedin](https://www.linkedin.com/in/shreya-sethi-3a6164228/) 
 
 
 <!--   GitHub stats graph -->
