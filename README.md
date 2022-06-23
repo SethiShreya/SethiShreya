@@ -15,7 +15,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Shivani's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SethiShreya&hide_border=true&theme=redical)
+![Shreya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SethiShreya&hide_border=true&theme=redical)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SethiShreya"></img>
 ### GitHub Stats
