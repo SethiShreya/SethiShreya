@@ -18,11 +18,6 @@
 ![Shreya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SethiShreya&hide_border=true&theme=redical)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SethiShreya"></img>
-### GitHub Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=SethiShreya&count_private=true&show_icons=true&theme=dark)
----
-
 
 **📫 How to Reach me:**
 <p align="left">
